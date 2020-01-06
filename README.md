@@ -1,7 +1,7 @@
 # Patch_matching
 codes for our iccv19 paper: Better and Faster: Exponential Loss for Image Patch Matching 
 
-    @inproceedings{r2d2,
+    @article  {patchmatching,
       author    = {Shuang Wang, Yanfeng Li, Xuefeng Liang, Dou Quan, Bowu Yang, Shaowei Wei, Licheng Jiao},
       title     = {Better and Faster: Exponential Loss for Image Patch Matching},
       booktitle = {ICCV},
