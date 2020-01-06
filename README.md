@@ -7,3 +7,6 @@ sh run.sh
 
 For rgb_nir datasets:
 python3 net.py
+
+# Acknowledgement
+We would like to thank the paper: Working hard to know your neighbor's margins: Local descriptor learning loss
